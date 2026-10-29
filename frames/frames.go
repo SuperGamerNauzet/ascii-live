@@ -137,4 +137,5 @@ var FrameMap = map[string]FrameType{
 	"luv":             Luv,
 
 	"conchetumare": Conchetumare,
+	"conchetumaremq": Conchetumaremq,
 }
