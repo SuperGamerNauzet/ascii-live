@@ -135,5 +135,4 @@ var FrameMap = map[string]FrameType{
 	"helix":           Helix,
 	"cube-lite":       CubeLite,
 	"luv":             Luv,
-	"conchetumare":    Conchetumare,
 }
